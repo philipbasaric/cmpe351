@@ -1,1 +1,1 @@
-# CMPE 351: Predictive Analytics Trading Strategy
+# CMPE 351: ML-Based Trading Strategy
